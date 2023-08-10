@@ -30,11 +30,12 @@
 ◾ **Awesome Visual Transformer**: contains a curated list of transformers for computer vision papers.                                                
 🔗***Link***: [Awesome Visual Transformer](https://github.com/dk-liang/Awesome-Visual-Transformer)
 
-◾ **Transformer-Based Visual Segmentation**: This repo is used for recording, tracking, and benchmarking several recent transformer-based visual segmentation methods.       🔗***Link***: [Transformer-Based Visual Segmentation](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
+◾ **Transformer-Based Visual Segmentation**: This repo is used for recording, tracking, and benchmarking several recent transformer-based visual segmentation methods.      
+🔗***Link***: [Transformer-Based Visual Segmentation](https://github.com/lxtGH/Awesome-Segmentation-With-Transformer)
 
-◾ **CVPR 2023 Paper with Code**: contains a list of accepted papers to CVPR 2023 with their code.                                
+◾ **CVPR 2023 Paper with Code**: contains a list of accepted papers to CVPR 2023 with their code.                                                                  
 🔗***Link***: [CVPR 2023 Paper with Code](https://github.com/amusi/CVPR2023-Papers-with-Code)
 
-◾ **Awesome Deepfakes Detection**: contains a list of Deepfakes Detection datasets, tools, papers, and code                                                  
+◾ **Awesome Deepfakes Detection**: contains a list of Deepfakes Detection datasets, tools, papers, and code                                                       
 🔗***Link***: [Awesome Deepfakes Detection](https://github.com/Daisy-Zhang/Awesome-Deepfakes-Detection)
 
